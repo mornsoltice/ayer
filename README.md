@@ -19,4 +19,5 @@ run `python3 -m pip install -r requirements.txt`
 
 and then just modify things on the toolchain and run with `scons run` to test ayer with qemu.
 
+**NOTE**: ayer is currently on development mode lol.
 
