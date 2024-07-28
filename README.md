@@ -5,7 +5,7 @@ yet a simple os made with C and x86_64. btw the name is inspired from ayer from 
 
 # building ayer
 
-install this dependencies
+install the dependencies
 
 ```sh
 yay -S gcc make bison flex libgmp-dev libmpc-dev libmpfr-dev texinfo nasm mtools qemu-system-x86 python3 scons
