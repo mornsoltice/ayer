@@ -1,3 +1,5 @@
+![ayer](ayer.png)
+
 # ayer
 yet a simple os made with C and x86_64. btw the name is inspired from ayer from gbf
 
